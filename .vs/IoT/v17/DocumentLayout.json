@@ -1,0 +1,571 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\duLieuTuOC\\source\\repos\\IoT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|d:\\dulieutuoc\\source\\repos\\iot\\iot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\cycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\cycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\lichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\lichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\formbacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\formbacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\formalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\formalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\xacnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\xacnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\newlichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\newlichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\cycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\cycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\bophanchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\bophanchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\formbacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\formbacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\controlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\controlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\formupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\formupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\formupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\formupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\bacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\bacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\formalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\formalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\xacnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\xacnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\controlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\controlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\lichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\lichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\newlichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\newlichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|D:\\duLieuTuOC\\source\\repos\\IoT\\iot\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE9ED0-9E5C-4710-BBE2-E96B49B2F9C9}|IoT\\IoT.csproj|solutionrelative:iot\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Form1.cs",
+              "RelativeDocumentMoniker": "IoT\\Form1.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Form1.cs",
+              "RelativeToolTip": "IoT\\Form1.cs",
+              "ViewState": "AQIAAOoCAAAAAAAAAAAAwBcDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T03:32:35.534Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cycle.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Cycle.cs",
+              "RelativeDocumentMoniker": "IoT\\Cycle.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Cycle.cs",
+              "RelativeToolTip": "IoT\\Cycle.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwBgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T16:05:40.544Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Start.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Start.cs",
+              "RelativeDocumentMoniker": "IoT\\Start.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Start.cs",
+              "RelativeToolTip": "IoT\\Start.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:18:03.739Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LichHen.cs [Design]",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\LichHen.cs",
+              "RelativeDocumentMoniker": "IoT\\LichHen.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\LichHen.cs [Design]",
+              "RelativeToolTip": "IoT\\LichHen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:14:12.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "connection.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\connection.cs",
+              "RelativeDocumentMoniker": "IoT\\connection.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\connection.cs",
+              "RelativeToolTip": "IoT\\connection.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T16:26:36.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "user.cs [Design]",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\user.cs",
+              "RelativeDocumentMoniker": "IoT\\user.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\user.cs [Design]",
+              "RelativeToolTip": "IoT\\user.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:18:09.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Form1.cs",
+              "RelativeDocumentMoniker": "IoT\\Form1.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Form1.cs [Design]",
+              "RelativeToolTip": "IoT\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:32:11.283Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Function.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Function.cs",
+              "RelativeDocumentMoniker": "IoT\\Function.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Function.cs",
+              "RelativeToolTip": "IoT\\Function.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAYwMUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:46:39.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormAlert.cs [Design]",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\FormAlert.cs",
+              "RelativeDocumentMoniker": "IoT\\FormAlert.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\FormAlert.cs [Design]",
+              "RelativeToolTip": "IoT\\FormAlert.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T07:12:25.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormBacSi.cs [Design]",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\FormBacSi.cs",
+              "RelativeDocumentMoniker": "IoT\\FormBacSi.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\FormBacSi.cs [Design]",
+              "RelativeToolTip": "IoT\\FormBacSi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:18:20.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "XacNhan.cs [Design]",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\XacNhan.cs",
+              "RelativeDocumentMoniker": "IoT\\XacNhan.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\XacNhan.cs [Design]",
+              "RelativeToolTip": "IoT\\XacNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:37:42.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewLichHen.cs [Design]",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\NewLichHen.cs",
+              "RelativeDocumentMoniker": "IoT\\NewLichHen.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\NewLichHen.cs [Design]",
+              "RelativeToolTip": "IoT\\NewLichHen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:46:32.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cycle.cs [Design]",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Cycle.cs",
+              "RelativeDocumentMoniker": "IoT\\Cycle.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Cycle.cs [Design]",
+              "RelativeToolTip": "IoT\\Cycle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T16:05:03.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Khoa.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Khoa.cs",
+              "RelativeDocumentMoniker": "IoT\\Khoa.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Khoa.cs",
+              "RelativeToolTip": "IoT\\Khoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T15:46:22.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BoPhanChinh.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\BoPhanChinh.cs",
+              "RelativeDocumentMoniker": "IoT\\BoPhanChinh.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\BoPhanChinh.cs",
+              "RelativeToolTip": "IoT\\BoPhanChinh.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAlwBQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T16:43:02.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Khoa.cs [Design]",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Khoa.cs",
+              "RelativeDocumentMoniker": "IoT\\Khoa.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Khoa.cs [Design]",
+              "RelativeToolTip": "IoT\\Khoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T15:46:20.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormBacSi.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\FormBacSi.cs",
+              "RelativeDocumentMoniker": "IoT\\FormBacSi.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\FormBacSi.cs",
+              "RelativeToolTip": "IoT\\FormBacSi.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:51:12.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Control.cs [Design]",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Control.cs",
+              "RelativeDocumentMoniker": "IoT\\Control.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Control.cs [Design]",
+              "RelativeToolTip": "IoT\\Control.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:27:03.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ControlPhong.cs [Design]",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\ControlPhong.cs",
+              "RelativeDocumentMoniker": "IoT\\ControlPhong.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\ControlPhong.cs [Design]",
+              "RelativeToolTip": "IoT\\ControlPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:58:48.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormUpdate.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\FormUpdate.cs",
+              "RelativeDocumentMoniker": "IoT\\FormUpdate.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\FormUpdate.cs",
+              "RelativeToolTip": "IoT\\FormUpdate.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAswHkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T03:18:12.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BacSi.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\BacSi.cs",
+              "RelativeDocumentMoniker": "IoT\\BacSi.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\BacSi.cs",
+              "RelativeToolTip": "IoT\\BacSi.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAIwJIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T05:48:15.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Start.cs [Design]",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Start.cs",
+              "RelativeDocumentMoniker": "IoT\\Start.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Start.cs [Design]",
+              "RelativeToolTip": "IoT\\Start.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:43:49.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormUpdate.cs [Design]",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\FormUpdate.cs",
+              "RelativeDocumentMoniker": "IoT\\FormUpdate.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\FormUpdate.cs [Design]",
+              "RelativeToolTip": "IoT\\FormUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T02:10:28.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormAlert.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\FormAlert.cs",
+              "RelativeDocumentMoniker": "IoT\\FormAlert.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\FormAlert.cs",
+              "RelativeToolTip": "IoT\\FormAlert.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T07:15:28.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "user.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\user.cs",
+              "RelativeDocumentMoniker": "IoT\\user.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\user.cs",
+              "RelativeToolTip": "IoT\\user.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAwP0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:40:02.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "XacNhan.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\XacNhan.cs",
+              "RelativeDocumentMoniker": "IoT\\XacNhan.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\XacNhan.cs",
+              "RelativeToolTip": "IoT\\XacNhan.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowB8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:48:44.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ControlPhong.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\ControlPhong.cs",
+              "RelativeDocumentMoniker": "IoT\\ControlPhong.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\ControlPhong.cs",
+              "RelativeToolTip": "IoT\\ControlPhong.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAcwEwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:02:40.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Phong.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Phong.cs",
+              "RelativeDocumentMoniker": "IoT\\Phong.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Phong.cs",
+              "RelativeToolTip": "IoT\\Phong.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAjwLoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:21:19.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\LogIn.cs",
+              "RelativeDocumentMoniker": "IoT\\LogIn.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\LogIn.cs [Design]",
+              "RelativeToolTip": "IoT\\LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:39:16.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\LogIn.cs",
+              "RelativeDocumentMoniker": "IoT\\LogIn.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\LogIn.cs",
+              "RelativeToolTip": "IoT\\LogIn.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:39:40.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LichHen.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\LichHen.cs",
+              "RelativeDocumentMoniker": "IoT\\LichHen.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\LichHen.cs",
+              "RelativeToolTip": "IoT\\LichHen.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAABBwDoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:18:20.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NewLichHen.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\NewLichHen.cs",
+              "RelativeDocumentMoniker": "IoT\\NewLichHen.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\NewLichHen.cs",
+              "RelativeToolTip": "IoT\\NewLichHen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:06:48.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "IoT\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "IoT\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:28:14.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "IoT\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "IoT\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:28:22.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "IoT\\EncryptionHelper.cs",
+              "ToolTip": "D:\\duLieuTuOC\\source\\repos\\IoT\\IoT\\EncryptionHelper.cs",
+              "RelativeToolTip": "IoT\\EncryptionHelper.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAArwDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:29:49.891Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
